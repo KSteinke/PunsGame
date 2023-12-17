@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PunsGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc9d32626a1ceca3c209592387259774d420db2a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe9962d5eac6ea04e6cb7c736af62e84ab700569")]
 [assembly: System.Reflection.AssemblyProductAttribute("PunsGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PunsGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
