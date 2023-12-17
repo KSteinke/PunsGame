@@ -10,7 +10,6 @@ namespace PunsGame.Services
         public bool GameStarted 
         {
             get {return _GameStarted;}
-            set {_GameStarted = value;}
         }
 
         public readonly List<Category> Frazes = [];
@@ -39,6 +38,11 @@ namespace PunsGame.Services
             {
                 _NumberOfTeams = numberOfTemas;
             }
+        }
+        
+        public void StartGame()
+        {
+            _GameStarted = true;
         }
     }
 }
